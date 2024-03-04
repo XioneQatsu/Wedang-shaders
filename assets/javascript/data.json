@@ -1,0 +1,64 @@
+{
+  "intro": {
+    "title": "What is \"Wedang shaders\" ?",
+    "description": "Just a shaders experiment alpha PBR (Inverse LabPBR green channel) with sky, shadow, light block, etc. Note for enable PBR feature you must use the textures and this shader for Non-RenderDragon!!"
+  },
+  "download": {
+    "shaders": [
+      {
+        "id": "shv11",
+        "name": "Wedang shaders v1.1",
+        "url": "https://github.com/XioneQatsu/Wedang-shaders/releases/download/v1.1/Wedang.shaders.v1.1.mcpack"
+      },
+      {
+        "id": "shv10",
+        "name": "Wedang shaders v1.0",
+        "url": "https://github.com/XioneQatsu/Wedang-shaders/releases/download/v1.0/Wedang.shaders.v1.0.zip"
+      }
+    ],
+    "textures": [
+      {
+        "id": "txv11",
+        "name": "Wedang textures v1.1",
+        "url": "https://github.com/XioneQatsu/Wedang-shaders/releases/download/v1.1/Wedang.textures.v1.1.mcpack"
+      },
+      {
+        "id": "txv10",
+        "name": "Wedang textures v1.0",
+        "url": "https://github.com/XioneQatsu/Wedang-shaders/releases/download/v1.0/Wedang.textures.v1.0.zip"
+      }
+    ]
+  },
+  "changelogs": [
+    {
+      "date": "2. v1.1 ( 04-03-2024 )",
+      "changelog": [
+        {
+          "text":"- A small upgrade :v."
+        }
+      ]
+    },
+    {
+      "date": "1. v1.0 ( 01-01-2023 )",
+      "changelog": [
+        {
+          "text":"- Released."
+        }
+      ]
+    }
+  ],
+  "screenshot": {
+    "image": [
+      { "url": "assets/image/ss1.jpg" },
+      { "url": "assets/image/ss2.jpg" },
+      { "url": "assets/image/ss3.jpg" },
+      { "url": "assets/image/ss4.jpg" },
+      { "url": "assets/image/ss5.jpg" },
+      { "url": "assets/image/ss6.jpg" },
+      { "url": "assets/image/ss7.jpg" },
+      { "url": "assets/image/ss8.jpg" },
+      { "url": "assets/image/ss9.jpg" },
+      { "url": "assets/image/ss10.jpg" }
+    ]
+  }
+}
