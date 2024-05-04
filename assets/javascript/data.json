@@ -8,24 +8,24 @@
       {
         "id": "shv11",
         "name": "Wedang shaders v1.1",
-        "url": "https://xioneqatsu.github.io/XioneQatsu/Wedang-shaders/releases/download/v1.1/Wedang.shaders.v1.1.mcpack"
+        "url": "https://github.com/XioneQatsu/Wedang-shaders/releases/download/v1.1/Wedang.shaders.v1.1.mcpack"
       },
       {
         "id": "shv10",
         "name": "Wedang shaders v1.0",
-        "url": "https://xioneqatsu.github.io/XioneQatsu/Wedang-shaders/releases/download/v1.0/Wedang.shaders.v1.0.zip"
+        "url": "https://github.com/XioneQatsu/Wedang-shaders/releases/download/v1.0/Wedang.shaders.v1.0.zip"
       }
     ],
     "textures": [
       {
         "id": "txv11",
         "name": "Wedang textures v1.1",
-        "url": "https://xioneqatsu.github.io/XioneQatsu/Wedang-shaders/releases/download/v1.1/Wedang.textures.v1.1.mcpack"
+        "url": "https://github.com/XioneQatsu/Wedang-shaders/releases/download/v1.1/Wedang.textures.v1.1.mcpack"
       },
       {
         "id": "txv10",
         "name": "Wedang textures v1.0",
-        "url": "https://xioneqatsu.github.io/XioneQatsu/Wedang-shaders/releases/download/v1.0/Wedang.textures.v1.0.zip"
+        "url": "https://github.com/XioneQatsu/Wedang-shaders/releases/download/v1.0/Wedang.textures.v1.0.zip"
       }
     ]
   },
