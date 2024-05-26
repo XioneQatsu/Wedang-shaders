@@ -1,4 +1,4 @@
-const wedangSrc = 'https://xioneqatsu.github.io/Wedang-shaders/',
+const wedangSrc = `${homeSrc}Wedang-shaders/`,
 see_all_version = {
   id: 'all_version',
   url: `${wedangSrc}all_version.html`
